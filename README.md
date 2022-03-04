@@ -29,6 +29,6 @@
 ![git](https://img.shields.io/badge/-Git-%23000000?style=flat&logo=git)
 
 
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=peipeilee10&show_icons=true&locale=en&layout=compact" alt="peipeilee10" /></span>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=peipeilee10&show_icons=true&locale=en&layout=compact" alt="peipeilee10" />
 
-<span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=peipeilee10&show_icons=true&locale=en" alt="peipeilee10" /></span>
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=peipeilee10&show_icons=true&locale=en" alt="peipeilee10" />
