@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vicky</h1>
-<h3 align="center">let me console.log('Vicky's frontend Journey!')</h3>
+<h1>Hi 👋, I'm Vicky</h1>
+<h3>let me console.log('Vicky's frontend Journey!')</h3>
 
 - 📫 How to reach me **vicky607vicky607@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
-### Hi there 👋
 
 ![profile views](https://komarev.com/ghpvc/?username=peipeilee10)
 
@@ -33,7 +31,6 @@
 ![git](https://img.shields.io/badge/-Git-%23000000?style=flat&logo=git)
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=peipeilee10&show_icons=true&locale=en&layout=compact" alt="peipeilee10" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peipeilee10&show_icons=true&locale=en&layout=compact" alt="peipeilee10" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peipeilee10&show_icons=true&locale=en" alt="peipeilee10" /></p>
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=peipeilee10&show_icons=true&locale=en" alt="peipeilee10" />
