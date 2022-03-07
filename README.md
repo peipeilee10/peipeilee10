@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Vicky</h1>
-<h3>let me console.log('Vicky's frontend Journey!')</h3>
+<h3>console.log('Vicky's frontend Journey!')</h3>
 
 - 📫 How to reach me **vicky607vicky607@gmail.com**
 
